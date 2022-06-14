@@ -131,3 +131,29 @@ h1 button {
     margin: 0 25px;
 }
 
+.add-container {
+    opacity: 0;
+    z-index: -1;
+    background-color: #f0f0f0;
+    border-top: 3px solid #407ceb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    transition: 0.3s ease;
+}
+
+.add-container.show {
+    opacity: 1;
+    z-index: 2;
+}
+
+.add-container h3 {
+    margin: 10px 0;
+}
+
