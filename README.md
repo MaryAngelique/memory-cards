@@ -16,11 +16,11 @@
 
 Users should be able to:
 
-#### - 
+#### - Add or remove a card
 
-#### - 
+#### - Input the card title and its description
 
-#### - 
+#### - Flip through the cards to see the description/title
 
 
 ### Links
