@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Memory Card GitHub Solution
+- Solution URL: [Memory Card GitHub Solution](https://github.com/MaryAngelique/memory-cards)
 - Live Site URL: [Memory Card Website](https://memory-cards-zero.vercel.app/)
 
 ## My process
@@ -34,12 +34,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
 
 ## Author
 
